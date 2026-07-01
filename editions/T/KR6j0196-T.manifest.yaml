@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0196/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0196/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 般若波羅蜜多理趣經大樂不空三昧真實金剛薩埵菩薩等一十七聖大曼荼羅義述
+  identifiers:
+    krp: KR6j0196
+    cbeta: T19n1004
+    cbeta_old_id: T19n1004
+    authorityid: CA0000166
+    json_key: T1004
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1004.xml
+    old_id: T19n1004
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0196_000-T.yaml, hash: 'sha256:16b042bbb3bad9fa019969bb15fb453478b3ff7a40b286ce46a2a46fb414d188'}
+  - {seq: 1, filename: KR6j0196_001-T.yaml, hash: 'sha256:424b7875a20267355fc8490f7f42fc8cf5de78836b419f680f0b45404427b18b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0196_000-T.markers.yaml, hash: 'sha256:90abd8479b29167d38be8e0f84a0e99a0c4441306835af2c093581b14039828f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0196_001-T.markers.yaml, hash: 'sha256:cf31d17abf3e146872ea59991548d636a1eb4e3c1134a6de87ee7d3479b8e64b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0196_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1156
+  label: '般若波羅蜜多理趣經大樂不空
+
+    三昧真實金剛薩埵菩薩等一十
+
+    七聖大曼茶羅義述一卷'
+  type: juan
+  level: 1
+hash: sha256:3a4912868e243468ee2527681aff1335bc743dc4dc806ed14e47e12b38b83668
