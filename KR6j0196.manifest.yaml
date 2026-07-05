@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0196_000.yaml, hash: 'sha256:16b042bbb3bad9fa019969bb15fb453478b3ff7a40b286ce46a2a46fb414d188'}
-  - {seq: 1, filename: KR6j0196_001.yaml, hash: 'sha256:8fe640cc0b44729a76c79e97420b8651e37aaa1782e077be9f6e0af4d2c9d7fc'}
+  - {seq: 1, filename: KR6j0196_001.yaml, hash: 'sha256:424b7875a20267355fc8490f7f42fc8cf5de78836b419f680f0b45404427b18b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0196_001.markers.yaml, hash: 'sha256:06980fce8d338d567fddbef943841dd900cf3d721e9baf0ebdef89b36da599a2'}
+  - {seq: 0, role: markers, filename: assets/KR6j0196_000.markers.yaml, hash: 'sha256:19f0b1cf62dc4c056211a4a6ce0aaf20dcc2a60b6a005eb0762eb1a1564fecb1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0196_001.markers.yaml, hash: 'sha256:d077a990c3e3530333b883fc54a94d56e492ae9760dc300bbe06cd231e8c1816'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,7 +47,4 @@ table_of_contents:
     七聖大曼茶羅義述一卷'
   type: juan
   level: 1
-hash: sha256:99272e15fc9f3bc725e8554c21e662c1af70bdb3fb24c891c98dee4ed2e08ec5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f155dc18573fe8fb83ccade6cf5df344ef922a819b758ba6a4aa96a7f17c738c
