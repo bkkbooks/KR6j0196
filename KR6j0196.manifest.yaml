@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0196/v1
 canonical_location: https://kanripo.org/bkk/KR6j0196/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 般若波羅蜜多理趣經大樂不空三昧真實金剛薩埵菩薩等一十七聖大曼荼羅義述
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0196_000.yaml, hash: 'sha256:16b042bbb3bad9fa019969bb15fb453478b3ff7a40b286ce46a2a46fb414d188'}
-  - {seq: 1, filename: KR6j0196_001.yaml, hash: 'sha256:424b7875a20267355fc8490f7f42fc8cf5de78836b419f680f0b45404427b18b'}
+  - {seq: 1, filename: KR6j0196_001.yaml, hash: 'sha256:8bc0ba715cda2332927df153104a0cab7a0c893a757123bdb93c8b52ea48c2e8'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0196_000.markers.yaml, hash: 'sha256:19f0b1cf62dc4c056211a4a6ce0aaf20dcc2a60b6a005eb0762eb1a1564fecb1'}
-  - {seq: 1, role: markers, filename: assets/KR6j0196_001.markers.yaml, hash: 'sha256:d077a990c3e3530333b883fc54a94d56e492ae9760dc300bbe06cd231e8c1816'}
+  - {seq: 1, role: markers, filename: assets/KR6j0196_001.markers.yaml, hash: 'sha256:b990a2076e8fd313801c48b493ba9bac593727f475c4fd77a05a519301e0ca08'}
 table_of_contents:
 - ref:
     seq: 1
@@ -47,4 +47,7 @@ table_of_contents:
     七聖大曼茶羅義述一卷'
   type: juan
   level: 1
-hash: sha256:f155dc18573fe8fb83ccade6cf5df344ef922a819b758ba6a4aa96a7f17c738c
+hash: sha256:7ecdee7fdbfa805969cb99e7447f5866db03c2dd3aebc93699c11485ae08c13b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
